@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+insightface
+qdrant-client
+python-multipart
+opencv-python-headless

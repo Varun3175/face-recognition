@@ -1,0 +1,36 @@
+# Virtual Environment
+faceenv/
+venv/
+env/
+.env
+.venv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules (if you have frontend)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large ML models (if any)
+*.h5
+*.pkl
+*.model
+*.weights
+
+# Environment variables
+.env
